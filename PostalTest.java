@@ -26,7 +26,7 @@ public class PostalTest
     PostalCode code = null;	
     String codeString = null;
 
-    System.out.println("\nPostal code analysis program.");
+    System.out.println("\nPostal code analysis program.");// arijit voxod 
  
     codeString = getInput();  //Get the code to analyse
     try
